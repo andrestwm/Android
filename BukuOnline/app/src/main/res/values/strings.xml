@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Game Online</string>
+
+
+    <!--    Buton menu-->
+    <string name="menu_game">List Game</string>
+    <string name="menu_kamera">Camera</string>
+    <string name="menu_remote">Remote</string>
+    <string name="menu_pay">Pay</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_turnoff">Turn Off</string>
+
+
+</resources>
